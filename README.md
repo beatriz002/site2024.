@@ -7,7 +7,7 @@
     <title></title>
     <h1> imoveis imobiliario</h1>
     
-    <p> venha achar seu movel com a sua cara  .</p>
+    <p> venha achar seu imovel com a sua cara  .</p>
     
     <img src="IMG-20240307-WA0008.JPG">
     <img src="IMG-20240307-WA0007.JPG">
